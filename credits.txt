@@ -1,4 +1,4 @@
 Pack name:  Small Dripleaf Duplication
-Pack URL:   
+Pack URL:   https://modrinth.com/datapack/small-dripleaf-duplication
 Author:     Nicole / notblue / nicoleisnotblue
 Author URL: https://modrinth.com/user/notblue   
