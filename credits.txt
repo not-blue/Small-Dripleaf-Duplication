@@ -2,3 +2,8 @@ Pack name:  Small Dripleaf Duplication
 Pack URL:   https://modrinth.com/datapack/small-dripleaf-duplication
 Author:     Nicole / notblue / nicoleisnotblue
 Author URL: https://modrinth.com/user/notblue   
+
+Built for @Pai on Vanilla Tweaks' Discord server.
+
+Data pack built with Misode Data Pack Generator (https://misode.github.io/).
+Pack maintained using Visual Studio Code.
