@@ -4,7 +4,9 @@
         "item": "minecraft:small_dripleaf"
       },
       "title": "Small Dripleaf Duplication",
-      "description": "Duplicate small dripleaf plants using bonemeal."
+      "description": "Duplicate small dripleaf plants using bonemeal.",
+      "show_toast": false,
+      "announce_to_chat": false
     },
     "parent": "global:notblue",
     "criteria": {
