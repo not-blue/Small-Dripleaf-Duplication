@@ -4,7 +4,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "dripleaf_duplication:small_dripleaf"
+        "recipes": "dripleaf_duplication:small_dripleaf"
       }
     },
     "has_small_dripleaf": {
@@ -12,9 +12,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "minecraft:small_dripleaf"
-            ]
+            "items": "minecraft:small_dripleaf"
           }
         ]
       }
